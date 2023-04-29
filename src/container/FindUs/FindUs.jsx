@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
@@ -23,4 +23,4 @@ const FindUs = () => (
   </div>
 );
 
-export default FindUs;
+export default FindUs; 
