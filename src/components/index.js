@@ -1,7 +1,7 @@
 import SubHeading from './SubHeading/SubHeading';
 import Newsletter from './Footer/Newsletter';
 import FooterOverlay from './Footer/FooterOverlay';
-import MenuItem from './Menuitem/index';
+import MenuItem from './MenuItem';
 import Navbar from './Navbar/Navbar';
 
 export {
